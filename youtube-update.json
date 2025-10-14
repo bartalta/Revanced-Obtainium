@@ -1,6 +1,6 @@
 {
-  "version": "v20.14.43 (patches: 5.42.1)",
-  "versionCode": 25,
-  "zipUrl": "https://github.com/bartalta/Revanced-Obtainium/releases/download/25/youtube-revanced-magisk-v20.14.43-all.zip",
+  "version": "v20.14.43 (patches: 5.43.0)",
+  "versionCode": 26,
+  "zipUrl": "https://github.com/bartalta/Revanced-Obtainium/releases/download/26/youtube-revanced-magisk-v20.14.43-all.zip",
   "changelog": "https://raw.githubusercontent.com/bartalta/Revanced-Obtainium/update/build.md"
 }
